@@ -67,7 +67,7 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 ### El proyecto se encuentra alojado en mi repositorio de GitHub:
 
-- [Pagina web](https://miguelramosalarcon.github.io/100DaysOfProjects/87-day-contact-form/)
+- [Pagina web](https://johanserna1023.github.io/87-day-contact-form/)
 - [Codigo fuente]()
 
 ## Proceso de trabajo
@@ -187,7 +187,7 @@ Hemos recopilado una lista de recursos e información valiosa que puede ayudarte
 
 ## Autor del reto
 
-Miguel Ramos Alarcón, Full Stack Developer.
+ELvis Johan Serna Vargas, Full Stack Developer.
 
 
 
